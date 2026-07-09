@@ -1,8 +1,13 @@
-Analizza lo stato attuale del sistema locale.
-Elenca:
-- Directory di lavoro
-- Tool disponibili tramite opencode
-- Progetti presenti
-- Eventuali errori o limitazioni
+# Task Orchestratore
 
-Rispondi in italiano in formato chiaro.
+Esegui analisi del sistema.
+
+Comando: report-stato
+
+Rispondi solo con un JSON valido contenente:
+{
+  "directory_lavoro": "...",
+  "tool_disponibili": ["..."],
+  "errori": "...",
+  "progetti": ["..."]
+}
