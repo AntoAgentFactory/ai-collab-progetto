@@ -1,5 +1,5 @@
-[12:30:53.901] ERROR (#10937): failed {
-  ref: "err_dd15d0a6",
+[12:31:05.901] ERROR (#10937): failed {
+  ref: "err_533e2400",
   error: 49 | 			hash text NOT NULL,
 50 | 			created_at numeric,
 51 | 			name text,
@@ -40,6 +40,6 @@ SQLiteError: no such column: replacement_seq
   "name": "UnknownError",
   "data": {
     "message": "Unexpected server error. Check server logs for details.",
-    "ref": "err_dd15d0a6"
+    "ref": "err_533e2400"
   }
 }
