@@ -20,4 +20,15 @@ Scrivi l'istruzione in linguaggio naturale, specificando:
 - **Il contenuto** desiderato
 - **Eventuali requisiti specifici**
 
-**Esempio:**
+# Istruzione Orchestratore Grok
+
+1. Analizza lo stato attuale del repository locale e di OpenCode.
+2. Elenca tutti i tool/comandi disponibili tramite "opencode".
+3. Fornisci un report completo su:
+   - Capacità attuali dell'AI locale
+   - Cartelle di lavoro
+   - Progetti presenti
+   - Limitazioni rilevate
+
+Rispondi in formato chiaro e strutturato.
+
